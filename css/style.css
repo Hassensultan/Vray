@@ -835,7 +835,9 @@ color: var(--main-color);
 
   .special-heading + p {
 
-    font-size: 12px;
+    font-size: 13px;
+
+    font-weight: bold;
 
   }
 
